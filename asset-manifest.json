@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/uxcellent-frontend/static/css/main.3f01d187.chunk.css",
+    "main.js": "/uxcellent-frontend/static/js/main.eab4858e.chunk.js",
+    "main.js.map": "/uxcellent-frontend/static/js/main.eab4858e.chunk.js.map",
+    "runtime-main.js": "/uxcellent-frontend/static/js/runtime-main.bedb7e76.js",
+    "runtime-main.js.map": "/uxcellent-frontend/static/js/runtime-main.bedb7e76.js.map",
+    "static/css/2.818011ed.chunk.css": "/uxcellent-frontend/static/css/2.818011ed.chunk.css",
+    "static/js/2.fe2e751b.chunk.js": "/uxcellent-frontend/static/js/2.fe2e751b.chunk.js",
+    "static/js/2.fe2e751b.chunk.js.map": "/uxcellent-frontend/static/js/2.fe2e751b.chunk.js.map",
+    "index.html": "/uxcellent-frontend/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/uxcellent-frontend/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.3f01d187.chunk.css.map": "/uxcellent-frontend/static/css/main.3f01d187.chunk.css.map",
+    "static/js/2.fe2e751b.chunk.js.LICENSE.txt": "/uxcellent-frontend/static/js/2.fe2e751b.chunk.js.LICENSE.txt",
+    "static/media/uxcellent.83a6e616.png": "/uxcellent-frontend/static/media/uxcellent.83a6e616.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bedb7e76.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.fe2e751b.chunk.js",
+    "static/css/main.3f01d187.chunk.css",
+    "static/js/main.eab4858e.chunk.js"
+  ]
+}
