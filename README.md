@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# UXCellent Front-End
+
+Part of BISA.AI OJT project.
+
+[Demo](https://etchzel.github.io/uxcellent-frontend)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
